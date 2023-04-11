@@ -1,0 +1,50 @@
+Publisher Flow:
+
+    Publisher Registration:
+    a. Fill out the registration form (full name, email, password, category).
+    b. Pay the registration fee.
+    c. Create a publisher account.
+
+    Publisher Login:
+    a. Enter email and password.
+    b. Authenticate and access the publisher dashboard.
+
+    Publisher Dashboard:
+    a. Create Newsletter:
+    i. Fill out the newsletter form (title, content, category).
+    ii. Optionally, schedule the newsletter for a specific date and time.
+    iii. Save the newsletter.
+    b. Update Newsletter:
+    i. Select a newsletter from the list.
+    ii. Edit the newsletter information (title, content, category, schedule).
+    iii. Save the updated newsletter.
+    c. Delete Newsletter:
+    i. Select a newsletter from the list.
+    ii. Delete the newsletter.
+
+User Flow:
+
+    User Registration:
+    a. Fill out the registration form (full name, email, password, interested categories).
+    b. Create a user account.
+
+    User Login:
+    a. Enter email and password.
+    b. Authenticate and access the user dashboard.
+
+    User Dashboard:
+    a. Browse Newsletters:
+    i. Filter by category or search for specific publishers.
+    ii. View newsletter details.
+    b. Subscribe to Publisher:
+    i. Select a publisher.
+    ii. Subscribe to the publisher's newsletters.
+    c. Like a Newsletter:
+    i. Select a newsletter.
+    ii. Like the newsletter.
+    d. Bookmark a Newsletter:
+    i. Select a newsletter.
+    ii. Bookmark the newsletter for later access.
+    e. Notifications:
+    i. Receive notifications when a subscribed publisher posts a new newsletter.
+    ii. View notifications on the dashboard or via email.
